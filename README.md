@@ -1,1 +1,1 @@
-# 'olx.ua' testing framework
+# Framework for testing the 'olx.ua' site
