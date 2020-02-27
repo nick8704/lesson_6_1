@@ -18,4 +18,5 @@ There are 10 tests in this framework. They are:
 * validateTransmissionCheckboxWorkingCorrect
 
 The results of tests after execution are written to a file ***olxLog.log*** as follows:
-![Test results](C:\Users\Lenovo\Desktop\olxLog.png)
+
+![Test results]("C:\Users\Lenovo\Desktop\olxLog.png")
